@@ -36,4 +36,4 @@ Gateway instance:
 
 ```bash
 $ kubectl apply -f splunk-otel-collector-gateway.yaml
-```
+``` 
